@@ -1,25 +1,25 @@
-# Portfólio de Dados - Fernanda Nunes
+# Data Portfolio
 
-Bem-vindo ao meu portfólio! 🚀  
-Aqui compartilho estudos, scripts e projetos práticos que estou desenvolvendo na minha transição para a área de Engenharia de Dados.  
+Welcome to my portfolio! 🚀  
+Here I share studies, scripts, and hands-on projects developed during my career transition into the Data Engineering field.  
 
-## 📂 Estrutura
-- **SQL** → Consultas, modelagem e otimização de bancos de dados relacionais.  
-- **Python** → Manipulação e visualização de dados com Pandas, Matplotlib, integração com APIs.  
-- **Big Data** → Exercícios com Spark, Kafka e pipelines de dados.  
-- **Cloud** → Conexões com bancos em nuvem, exemplos com AWS e GCP.  
+## 📂 Structure
+- **SQL** → Queries, relational data modeling, and optimization.  
+- **Python** → Data manipulation and visualization with Pandas, Matplotlib, API integrations.  
+- **Big Data** → Exercises with Spark, Kafka, and data pipelines.  
+- **Cloud** → Database connections in the cloud, examples with AWS and GCP.  
 
-## 🛠 Tecnologias
+## 🛠 Tech Stack
 - SQL (SQL SERVER)  
 - Python (Pandas, Matplotlib, Plotly)  
-- Spark, Kafka  
+- Spark, Kafka (intro level)  
 - Git & Docker  
 - NoSQL (MongoDB)  
 
-## 📌 Próximos Passos
-- Construir um projeto ETL completo (coletar → transformar → carregar).  
-- Criar dashboards de visualização de dados.  
-- Explorar pipelines com Airflow.  
+## 📌 Next Steps
+- Build a complete ETL project (extract → transform → load).  
+- Create data visualization dashboards.  
+- Explore orchestration with Airflow.  
 
 ---
-💡 Veja mais sobre mim no [LinkedIn](https://www.linkedin.com/in/fernanda-nunes-182708158/) 
+💡 Learn more about me on [LinkedIn](https://www.linkedin.com/in/fernanda-nunes-182708158/)
