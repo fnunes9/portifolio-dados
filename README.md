@@ -3,6 +3,12 @@
 Welcome to my portfolio! 🚀  
 Here I share studies, scripts, and hands-on projects developed during my career transition into the Data Engineering field.  
 
+## 🛠 Tools Used
+- **SQL Server** as the database management system.  
+- **SQL Server Management Studio (SSMS)** as the IDE for database administration and query execution.  
+  👉 [Official SSMS Download](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+  
+
 ## 📂 Structure
 - **SQL** → Queries, relational data modeling, and optimization.  
 - **Python** → Data manipulation and visualization with Pandas, Matplotlib, API integrations.  
