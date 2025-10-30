@@ -1,64 +1,64 @@
-# 🐍 Projeto: Python para Manipulação e Visualização de Dados
+# 🐍 Project: Python for Data Manipulation and Visualization
 
-Este repositório reúne meus estudos e práticas da disciplina de **Python** da pós-graduação em **Engenharia de Dados**.  
-Aqui, estou consolidando o uso da linguagem para **extração, manipulação, visualização e integração de dados** de diferentes fontes.
-
----
-
-## 🎯 Objetivos
-
-Meu foco nesta etapa é aprimorar o uso do **Python como ferramenta de análise de dados**, desenvolvendo habilidades para:
-
-- Extrair informações de diferentes formatos (bancos de dados, arquivos e APIs);
-- Manipular, transformar e limpar conjuntos de dados;
-- Criar visualizações que facilitem a interpretação e a tomada de decisão;
-- Estruturar códigos de forma organizada e reutilizável.
+This repository contains my studies and practical exercises from the **Python** course in my **Data Engineering** postgraduate program.  
+Here, I’m consolidating my skills in **data extraction, manipulation, visualization, and integration** from various sources.
 
 ---
 
-## ⚙️ Métodos de Estudo
+## 🎯 Objectives
 
-- Revisão teórica com base nos fundamentos da linguagem;  
-- Exercícios práticos e resolução de problemas reais;  
-- Desenvolvimento de scripts e notebooks para consolidar o aprendizado.
+My goal in this stage is to strengthen my ability to use **Python as a data analysis tool**, developing skills to:
 
----
-
-## 🧩 Conteúdo Programático
-
-### 🧠 Fundamentos da Linguagem
-- Tipos de dados e operadores  
-- Estruturas condicionais e de repetição  
-
-### 🧺 Estruturas de Dados
-- Listas, tuplas, conjuntos e dicionários  
-- Séries e DataFrames com **Pandas**
-
-### 📊 Manipulação e Visualização
-- Tratamento e análise com **Pandas**  
-- Visualizações com **Matplotlib** e **Plotly**
-
-### 🔗 Integrações e Processamento
-- Conexões com bancos de dados e arquivos  
-- Consumo e manipulação de dados via **APIs**  
-- Processamento **multithreading** e **distribuído**
+- Extract information from multiple formats (databases, files, and APIs);
+- Manipulate, transform, and clean datasets;
+- Create visualizations that support interpretation and decision-making;
+- Write clean, structured, and reusable code.
 
 ---
 
-## ▶️ Como Executar o Projeto
+## ⚙️ Learning Methods
 
-Todos os notebooks deste repositório foram desenvolvidos no **Google Colab**.
+- Theoretical review of Python fundamentals;  
+- Practical exercises and problem-solving;  
+- Development of scripts and notebooks to consolidate learning.
 
-Para executar:
+---
 
-1. Encontre o arquivo `.ipynb` desejado;  
-2. Faça uma **cópia para o seu Google Drive**; 
-4. Execute as células normalmente no ambiente do Colab.  
+## 🧩 Course Content
 
-> 💡 O ambiente já vem com as principais bibliotecas instaladas, como `pandas`, `matplotlib` e `plotly`.  
-> Caso precise de alguma dependência adicional, basta instalar diretamente no Colab com:
+### 🧠 Language Fundamentals
+- Data types and operators  
+- Conditional and looping structures  
+
+### 🧺 Data Structures
+- Lists, tuples, sets, and dictionaries  
+- Series and DataFrames using **Pandas**
+
+### 📊 Data Manipulation and Visualization
+- Data cleaning and analysis with **Pandas**  
+- Visualizations using **Matplotlib** and **Plotly**
+
+### 🔗 Integration and Processing
+- Connecting to databases and files  
+- Working with data through **APIs**  
+- **Multithreading** and **distributed** processing
+
+---
+
+## ▶️ How to Run the Project
+
+All notebooks in this repository were developed in **Google Colab**.
+
+To run them:
+
+1. Find the desired `.ipynb` file;
+2. Make a **copy to your Google Drive** ; 
+4. Run the cells normally inside Colab.  
+
+> 💡 The environment already includes the main libraries such as `pandas`, `matplotlib`, and `plotly`.  
+> If you need additional dependencies, simply install them directly in Colab using:
 > ```python
-> !pip install nome-da-biblioteca
+> !pip install library-name
 > ```
 
 ---
